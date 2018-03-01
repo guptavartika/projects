@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #include<unistd.h>
-#include<stdio.h>//vartikagupta
+#include<stdio.h>//vartikagupta is 
 #include<stdlib.h>
 #include<string.h>
 #include <fcntl.h>
