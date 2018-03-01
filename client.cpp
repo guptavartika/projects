@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #include<unistd.h>
-#include<stdio.h>
+#include<stdio.h>//vartika
 #include<stdlib.h>
 #include<string.h>
 #include <fcntl.h>
